@@ -1,6 +1,6 @@
 # Experimental Database
 
-This repository stores the Trial-1 high-rise structural experiment database,
+This repository stores the high-rise structural experiment database,
 including design documents, construction records, damper information,
 instrumentation files, raw synchronized test data, ground motions, photos, and
 videos.
